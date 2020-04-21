@@ -29,6 +29,18 @@
                         </div>
                     </article>
                 </div>
+                <div class="box">
+                    <article class="media">
+                        <div class="media-content">
+                            <div class="content">
+                                <a href="{{ post.url | relative_url }}">
+                                    <p class="title is-4">{{post.title}} <span class="tag is-white is-pulled-right"><small>{{ post.date | date: '%B %d, %Y'}}</small></span></p>
+                                    <p class="subtitle"><small>{{post.excerpt | remove: '<p>' | remove: '</p>'}}</small></p>
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+                </div>
             </div>
         </div>
     </div>
