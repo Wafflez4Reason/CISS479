@@ -6,7 +6,7 @@ description: "My blog for CISS 497"
 author: "Nikolaus Fricker"
 title: "CISS 497 Weekly Blog"
 permalink: pretty
-baseurl: /CISS497blog
+baseurl: /jekyll-theme-blogfolio
 
 # social
 github:
