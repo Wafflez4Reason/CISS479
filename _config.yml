@@ -1,16 +1,16 @@
 # Site settings
-name: name
-email: email
+name: Nikolaus Fricker
+email: nikofricker@hotmail.com
 url: url
-description: "A blog and a portfolio"
-author: "author"
-title: "BlogFolio"
+description: "My blog for CISS 497"
+author: "Nikolaus Fricker"
+title: "CISS 497 Weekly Blog"
 permalink: pretty
-baseurl: /jekyll-theme-blogfolio
+baseurl: /CISS497blog
 
 # social
 github:
-  username: username
+  username: https://github.com/Wafflez4Reason
 
-twitter:
-  username: username
+#twitter:
+#  username: username
