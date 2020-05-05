@@ -3,6 +3,7 @@ layout: post
 title: "Privacy & Trust"
 date: 2020-05-04 12:00:00 -0500
 ---
+**Week 5 Reflection**
 
 With the ever-increasing lack of privacy across the internet it is proving more and more difficult with each day to figure out where those boundaries of privacy lie. Your information and data is harvested throughout nearly any activity online and some in person. Websites share tracking information and other data on what you like with ad agencies to promote and come up with targeted advertising for only you. 
 
