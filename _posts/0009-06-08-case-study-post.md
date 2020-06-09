@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Case Study"
+title: "Trust in Cryptocurrency"
 date: 2020-06-08 12:00:00 -0500
 ---
-**Week 10**
+**Case Study**
