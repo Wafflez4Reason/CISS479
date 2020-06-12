@@ -10,14 +10,23 @@ Contrary to the common understanding and applications of usable security, this w
 In our first reading Ethnography of Infrastructure by Susan Star, she went into detail about her time as an ethnographer. Discussing how things we see as basic and common placed infrastructure can really have cultural effects tied along with them. Trying to find the master narrative behind why things are the way that they are. She described infrastructure as:
 
 •	Become part of human organization 
+
 •	Has different properties to it 
+
 •	Embeddedness 
+
 •	Transparency reach or scope 
+
 •	Learned as part of membership 
+
 •	Links with conventions of practice 
+
 •	Embodiment of standards 
+
 •	Built on an installed base 
+
 •	Becomes visible upon breakdown 
+
 •	Is fixed in modular increments, not all at once or globally
 
 This helps to serve as a baseline as to what good infrastructure should provide. It should be seamless to the user as to provide the least amount of invisible work as possible. Without these points a system is likely to impede the user from doing what they want without directly meaning to. 
